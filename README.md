@@ -1,4 +1,6 @@
 # yp_data_analyst_plus
+`(in progress)`
+
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, 
 курс "Аналитик данных плюс" (510 учебных часов)
 
@@ -11,5 +13,4 @@
   
 [E-mail: nata3951@gmail.com](mailto:nata3951@gmail.com) 
 
-
-
+Диплом: [Практикум диплом DA+.pdf](https://github.com/Nata3951/YP_data_analyst_plus/files/8843755/DA%2B.pdf)
